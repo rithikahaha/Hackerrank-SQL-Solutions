@@ -1,0 +1,46 @@
+# HackerRank SQL Solutions
+
+Step-by-step solutions to HackerRank's SQL questions, written for beginners.
+The goal isn't just "here's the query" — it's showing how to think through
+each problem so the logic actually clicks.
+
+## How each problem is organized
+
+Every folder has:
+- **`README.md`** — the problem in plain English, the table schema, the
+  steps to get to the answer, the code, and a walkthrough of what each part
+  of the query does
+- **`solution.sql`** — just the clean query, ready to run
+
+Try the problem yourself first. If you get stuck, read the **Steps**
+section (not the code) — it's meant to unstick your thinking without giving
+the answer away. Only look at the code once you've had a real attempt.
+
+Note: HackerRank occasionally renames a problem's title without changing
+its URL, so a link's page title may not exactly match the heading here —
+if a link ever breaks, search the [SQL practice section](https://www.hackerrank.com/domains/sql) by title.
+
+## Easy
+
+| # | Problem | Folder |
+|---|---|---|
+| 01 | Select All | [easy/01-select-all](easy/01-select-all) |
+| 02 | Select By ID | [easy/02-select-by-id](easy/02-select-by-id) |
+| 03 | Japanese Cities' Attributes | [easy/03-japanese-cities-attributes](easy/03-japanese-cities-attributes) |
+| 04 | Japanese Cities' Name | [easy/04-japanese-cities-name](easy/04-japanese-cities-name) |
+| 05 | Revising the Select Query I | [easy/05-revising-the-select-query-i](easy/05-revising-the-select-query-i) |
+| 06 | Revising the Select Query II | [easy/06-revising-the-select-query-ii](easy/06-revising-the-select-query-ii) |
+| 07 | Weather Observation Station 1 | [easy/07-weather-observation-station-1](easy/07-weather-observation-station-1) |
+| 08 | Weather Observation Station 3 | [easy/08-weather-observation-station-3](easy/08-weather-observation-station-3) |
+| 09 | Weather Observation Station 4 | [easy/09-weather-observation-station-4](easy/09-weather-observation-station-4) |
+| 10 | Weather Observation Station 6 | [easy/10-weather-observation-station-6](easy/10-weather-observation-station-6) |
+| 11 | Weather Observation Station 7 | [easy/11-weather-observation-station-7](easy/11-weather-observation-station-7) |
+| 12 | Weather Observation Station 8 | [easy/12-weather-observation-station-8](easy/12-weather-observation-station-8) |
+| 13 | Weather Observation Station 9 | [easy/13-weather-observation-station-9](easy/13-weather-observation-station-9) |
+| 14 | Weather Observation Station 11 | [easy/14-weather-observation-station-11](easy/14-weather-observation-station-11) |
+| 15 | Weather Observation Station 12 | [easy/15-weather-observation-station-12](easy/15-weather-observation-station-12) |
+| 16 | Higher Than 75 Marks | [easy/16-higher-than-75-marks](easy/16-higher-than-75-marks) |
+| 17 | Employee Names | [easy/17-employee-names](easy/17-employee-names) |
+| 18 | Employee Salaries | [easy/18-employee-salaries](easy/18-employee-salaries) |
+
+More difficulty levels coming as they're solved.
