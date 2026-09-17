@@ -1,0 +1,8 @@
+WITH RECURSIVE rows AS (
+  SELECT 1 AS n
+  UNION ALL
+  SELECT n + 1 FROM rows WHERE n < 20
+)
+SELECT REPEAT('* ', n)
+FROM rows
+ORDER BY n ASC;

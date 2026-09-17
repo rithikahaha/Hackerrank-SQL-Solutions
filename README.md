@@ -62,10 +62,10 @@ if a link ever breaks, search the [SQL practice section](https://www.hackerrank.
 | 36 | African Cities | [easy/36-african-cities](easy/36-african-cities) |
 | 37 | Asian Population | [easy/37-asian-population](easy/37-asian-population) |
 | 38 | Type of Triangle | [easy/38-type-of-triangle](easy/38-type-of-triangle) |
+| 39 | Draw The Triangle 1 | [easy/39-draw-the-triangle-1](easy/39-draw-the-triangle-1) |
+| 40 | Draw The Triangle 2 | [easy/40-draw-the-triangle-2](easy/40-draw-the-triangle-2) |
 
-That's every Easy question in HackerRank's Basic Select and Aggregation
-sections (two more Easy ones — Draw The Triangle 1 & 2 — use a totally
-different, loop-based style and aren't covered here yet).
+That's every Easy question on HackerRank's SQL track.
 
 ## Medium
 
@@ -88,8 +88,22 @@ different, loop-based style and aren't covered here yet).
 | 15 | SQL Project Planning | [medium/15-sql-project-planning](medium/15-sql-project-planning) |
 | 16 | Print Prime Numbers | [medium/16-print-prime-numbers](medium/16-print-prime-numbers) |
 
-That's every Medium SQL question on HackerRank (2 Hard ones — 15 Days of
-Learning SQL and Interviews — are left for later). This batch introduces
+That's every Medium SQL question on HackerRank. This batch introduces
 window functions (`ROW_NUMBER`, `PARTITION BY`), self-joins, correlated
 subqueries, derived tables, the gaps-and-islands pattern, and recursive
 CTEs — each one explained the first time it shows up.
+
+## Hard
+
+| # | Problem | Folder |
+|---|---|---|
+| 01 | Interviews | [hard/01-interviews](hard/01-interviews) |
+| 02 | 15 Days of Learning SQL | [hard/02-15-days-of-learning-sql](hard/02-15-days-of-learning-sql) |
+
+That's every Hard SQL question on HackerRank too — **all 58 problems across
+HackerRank's SQL track are now solved**, from `SELECT *` up through
+multi-CTE queries combining correlated subqueries, window functions, and
+several joins at once. These two don't introduce new SQL syntax so much as
+combine everything from the Medium set into bigger, multi-part problems —
+the walkthroughs lean on ideas from earlier folders rather than explaining
+things from scratch.
