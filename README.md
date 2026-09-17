@@ -63,5 +63,33 @@ if a link ever breaks, search the [SQL practice section](https://www.hackerrank.
 | 37 | Asian Population | [easy/37-asian-population](easy/37-asian-population) |
 | 38 | Type of Triangle | [easy/38-type-of-triangle](easy/38-type-of-triangle) |
 
-That's every Easy SQL question on HackerRank's Basic Select and Aggregation
-tracks. Medium next.
+That's every Easy question in HackerRank's Basic Select and Aggregation
+sections (two more Easy ones — Draw The Triangle 1 & 2 — use a totally
+different, loop-based style and aren't covered here yet).
+
+## Medium
+
+| # | Problem | Folder |
+|---|---|---|
+| 01 | Binary Tree Nodes | [medium/01-binary-search-tree-nodes](medium/01-binary-search-tree-nodes) |
+| 02 | Symmetric Pairs | [medium/02-symmetric-pairs](medium/02-symmetric-pairs) |
+| 03 | The PADS | [medium/03-the-pads](medium/03-the-pads) |
+| 04 | Occupations | [medium/04-occupations](medium/04-occupations) |
+| 05 | Weather Observation Station 18 | [medium/05-weather-observation-station-18](medium/05-weather-observation-station-18) |
+| 06 | Weather Observation Station 19 | [medium/06-weather-observation-station-19](medium/06-weather-observation-station-19) |
+| 07 | Weather Observation Station 20 | [medium/07-weather-observation-station-20](medium/07-weather-observation-station-20) |
+| 08 | The Report | [medium/08-the-report](medium/08-the-report) |
+| 09 | Placements | [medium/09-placements](medium/09-placements) |
+| 10 | Ollivander's Inventory | [medium/10-ollivanders-inventory](medium/10-ollivanders-inventory) |
+| 11 | New Companies | [medium/11-new-companies](medium/11-new-companies) |
+| 12 | Challenges | [medium/12-challenges](medium/12-challenges) |
+| 13 | Contest Leaderboard | [medium/13-contest-leaderboard](medium/13-contest-leaderboard) |
+| 14 | Top Competitors | [medium/14-top-competitors](medium/14-top-competitors) |
+| 15 | SQL Project Planning | [medium/15-sql-project-planning](medium/15-sql-project-planning) |
+| 16 | Print Prime Numbers | [medium/16-print-prime-numbers](medium/16-print-prime-numbers) |
+
+That's every Medium SQL question on HackerRank (2 Hard ones — 15 Days of
+Learning SQL and Interviews — are left for later). This batch introduces
+window functions (`ROW_NUMBER`, `PARTITION BY`), self-joins, correlated
+subqueries, derived tables, the gaps-and-islands pattern, and recursive
+CTEs — each one explained the first time it shows up.
