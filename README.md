@@ -42,5 +42,26 @@ if a link ever breaks, search the [SQL practice section](https://www.hackerrank.
 | 16 | Higher Than 75 Marks | [easy/16-higher-than-75-marks](easy/16-higher-than-75-marks) |
 | 17 | Employee Names | [easy/17-employee-names](easy/17-employee-names) |
 | 18 | Employee Salaries | [easy/18-employee-salaries](easy/18-employee-salaries) |
+| 19 | Revising Aggregations - The Count Function | [easy/19-revising-aggregations-count](easy/19-revising-aggregations-count) |
+| 20 | Revising Aggregations - The Sum Function | [easy/20-revising-aggregations-sum](easy/20-revising-aggregations-sum) |
+| 21 | Revising Aggregations - Averages | [easy/21-revising-aggregations-averages](easy/21-revising-aggregations-averages) |
+| 22 | Average Population | [easy/22-average-population](easy/22-average-population) |
+| 23 | Japan Population | [easy/23-japan-population](easy/23-japan-population) |
+| 24 | Population Density Difference | [easy/24-population-density-difference](easy/24-population-density-difference) |
+| 25 | Weather Observation Station 2 | [easy/25-weather-observation-station-2](easy/25-weather-observation-station-2) |
+| 26 | Weather Observation Station 13 | [easy/26-weather-observation-station-13](easy/26-weather-observation-station-13) |
+| 27 | Weather Observation Station 14 | [easy/27-weather-observation-station-14](easy/27-weather-observation-station-14) |
+| 28 | Weather Observation Station 16 | [easy/28-weather-observation-station-16](easy/28-weather-observation-station-16) |
+| 29 | Weather Observation Station 15 | [easy/29-weather-observation-station-15](easy/29-weather-observation-station-15) |
+| 30 | Weather Observation Station 17 | [easy/30-weather-observation-station-17](easy/30-weather-observation-station-17) |
+| 31 | Weather Observation Station 10 | [easy/31-weather-observation-station-10](easy/31-weather-observation-station-10) |
+| 32 | Weather Observation Station 5 | [easy/32-weather-observation-station-5](easy/32-weather-observation-station-5) |
+| 33 | The Blunder | [easy/33-the-blunder](easy/33-the-blunder) |
+| 34 | Top Earners | [easy/34-top-earners](easy/34-top-earners) |
+| 35 | Average Population of Each Continent | [easy/35-average-population-of-each-continent](easy/35-average-population-of-each-continent) |
+| 36 | African Cities | [easy/36-african-cities](easy/36-african-cities) |
+| 37 | Asian Population | [easy/37-asian-population](easy/37-asian-population) |
+| 38 | Type of Triangle | [easy/38-type-of-triangle](easy/38-type-of-triangle) |
 
-More difficulty levels coming as they're solved.
+That's every Easy SQL question on HackerRank's Basic Select and Aggregation
+tracks. Medium next.
